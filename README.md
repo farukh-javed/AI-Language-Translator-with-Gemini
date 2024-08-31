@@ -12,7 +12,7 @@ A simple and powerful translation app that uses Google Generative AI (Gemini-1.5
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/farukh-javed/Translation-App.git
+   git clone https://github.com/farukh-javed/Language-Translator-with-Gemini-AI.git
    ```
 2. Install the required packages:
    ```bash
