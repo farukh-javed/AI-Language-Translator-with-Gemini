@@ -4,7 +4,7 @@ A simple and powerful translation app that uses Google Generative AI (Gemini-1.5
 
 ## 🚀 Features
 
-- **Language Selection:** Choose from languages like English, Urdu, Spanish, French, German, Chinese, and Japanese.
+- **Language Selection:** Choose from languages like English, Urdu, Spanish, French, German, Chinese, and Japanese etc.
 - **AI-Powered Translations:** Get accurate and context-aware translations powered by Google's Gemini AI.
 - **User-Friendly Interface:** Easy-to-use Streamlit interface with options to select input and output languages.
 
